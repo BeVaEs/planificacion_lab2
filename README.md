@@ -1,2 +1,2 @@
 # planificacion_lab2
-Probando mi git local
+Contiene marcos de datos necesarios para la práctica del laboratorio
